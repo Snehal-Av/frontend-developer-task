@@ -1,0 +1,56 @@
+{
+    "offers":[
+        {
+            "image":"img/bgverify.png",
+            "title":"Background verification",
+            "content":"Assuring your capital is in safe hands, we provide detailed verification reports of the project and developer. These are customized and detailed..."
+            
+        },
+        {
+            "image":"img/sitevisite.png",
+            "title":"Virtual site visit",
+            "content":"It becomes imperative to observe your apartment or plot very closely before paying the booking amount. We are here to assist with an AI-enabled UAV..."
+        },
+        {
+            "image":"img/title.png",
+            "title":"Title diligence",
+            "content":"Due diligence is necessary to prevent real estate malpractices which have contributed to more than 20% of the civil cases in India. We have a panel of..."
+        }
+    ],
+    "teams": [
+        {
+            "image":"img/team.png",
+            "name": "Brajesh Pathak",
+            "description": "A Chartered Accountant & Company Secretary, has over a decade of experience in managing realty focused venture capital funds, and was heading Azure Capital Advisors Private Limited. He has also been..."
+        },
+        {
+            "image":"img/teamm.png",
+            "name": "Deepak Shukla",
+            "description": "Deepak Shukla has completed his B.Tech (hons.) from the Indian Institute of Technology (IIT) Kharagpur and obtained an MBA from the Indian Institute of Management (IIM) Ahmedabad, India.Capital "
+        },
+            {
+            "image":"img/teammm.png",
+            "name": "Alok Kumar Singh",
+            "description":"Entrepreneur with pedigree from IIT-BHU and IIML, and more than 25 years of experience in management responsibilities in top tier companies including Infosys, Infosys BPO and Azure Capital. "
+         }
+    ],
+    "blogs":[
+        {
+            "image":"img/property.png",
+            "title":"Guide for personal property Buying",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp incididuut labore dolore magna aliqua do eiusmod... "
+        },
+        {
+            "image":"img/propertyy.png",
+            "title":"Guide for personal property Buying",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp incididuut labore dolore magna aliqua do eiusmod... "
+
+        },
+        {
+            "image":"img/propertyyy.png",
+            "title":"Guide for personal property Buying",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod temp incididuut labore dolore magna aliqua do eiusmod... "
+
+        }
+    ]
+}
